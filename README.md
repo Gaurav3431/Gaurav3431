@@ -39,7 +39,7 @@
   <img src="" alt="Jupyter"/>
   <img src="" alt="MySQL"/>
   <img src="" alt="Git"/>
-  <img src="" alt="VS Code"/>
+  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/MySQL_logo.svg" alt="VS Code"/>
 </p>
 
 ---
