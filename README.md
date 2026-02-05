@@ -31,15 +31,15 @@
 ### 🛠️ Tech Stack & Tools:
 
 <p align="center">
-  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/Python-logo-notext.svg" alt="Python"/>
-  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/Pandas_logo.svg" alt="Pandas"/>
-  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/NumPy_logo_2020.svg" alt="NumPy"/>
-  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/Matplotlib_icon.svg" alt="Matplotlib"/>
-  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/SEAborn%20LOgo.png" alt="Seaborn"/>
-  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/jupyterrr%20LOGO.webp" alt="Jupyter"/>
-  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/MySQL_logo.svg" alt="MySQL"/>
-  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/Octicons-mark-github.svg" alt="Git"/>
-  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"/>
+  <img src="https://" alt="Python"/>
+  <img src=" alt="Pandas"/>
+  <img src="" alt="NumPy"/>
+  <img src="" alt="Matplotlib"/>
+  <img src="" alt="Seaborn"/>
+  <img src="" alt="Jupyter"/>
+  <img src="" alt="MySQL"/>
+  <img src="" alt="Git"/>
+  <img src="" alt="VS Code"/>
 </p>
 
 ---
