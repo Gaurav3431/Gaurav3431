@@ -33,7 +33,7 @@
 <p align="center">
   <img src="https://" alt="Python"/>
   <img src=" alt="Pandas"/>
-  <img src="" alt="NumPy"/>
+  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/NumPy_logo_2020.svg" alt="NumPy"/>
   <img src="" alt="Matplotlib"/>
   <img src="" alt="Seaborn"/>
   <img src="" alt="Jupyter"/>
