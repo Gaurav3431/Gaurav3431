@@ -31,7 +31,7 @@
 ### 🛠️ Tech Stack & Tools:
 
 <p align="center">
-  <img src="https://" alt="Python"/>
+  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/Python-logo-notext.svg" alt="Python"/>
   <img src=" alt="Pandas"/>
   <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/NumPy_logo_2020.svg" alt="NumPy"/>
   <img src="" alt="Matplotlib"/>
