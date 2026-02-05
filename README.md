@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/MySQL_logo.svg" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"/>
 </p>
 
 ---
