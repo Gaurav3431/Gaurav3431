@@ -36,7 +36,7 @@
   <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/NumPy_logo_2020.svg" alt="NumPy"/>
   <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/Matplotlib_icon.svg" alt="Matplotlib"/>
   <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/SEAborn%20LOgo.png" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/jupyterrr%20LOGO.webp" alt="Jupyter"/>
   <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/MySQL_logo.svg" alt="MySQL"/>
   <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/Octicons-mark-github.svg" alt="Git"/>
   <img src="https://github.com/Gaurav3431/Gaurav3431/blob/main/Visual_Studio_Code_1.35_icon.svg" alt="VS Code"/>
