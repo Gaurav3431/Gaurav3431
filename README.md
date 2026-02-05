@@ -47,12 +47,12 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav_Kumar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav_Kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gaurav3431&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav3431&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav_Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav3431&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ### 🏆 GitHub Trophies:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav_Kumar&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaurav3431&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ### 📈 Contribution Graph:
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav_Kumarr&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav3431&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
